@@ -4,11 +4,11 @@
   "icons": [
     {
       "name": "xiaoxin",
-      "url": "./icons/xiaoxin.png"
+      "url": "https://github.com/nature-h/Forward_icon/blob/main/xiaoxin.png"
     },
     {
       "name": "xiaoxin_family",
-      "url": "./icons/xiaoxin_family.png"
+      "url": "https://github.com/nature-h/Forward_icon/blob/main/xiaoxin_family.png"
     }
   ]
 }
